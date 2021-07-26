@@ -1,0 +1,93 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    text-align: center;
+    color: #fff;
+}
+.logo{
+    background-color: aquamarine;
+    height: 50px;  
+}
+
+
+.banner{
+    background-color:coral;
+    height: 317px;
+}
+
+
+.parent{
+overflow: hidden;
+}
+
+.child_1{
+    width: 50%;
+    background-color: crimson;
+    height: 200px;
+    float: left;
+}
+
+.child_2{
+    width: 50%;
+    background-color: darkorchid;
+    height: 200px;
+    float: left;
+}
+
+
+
+
+.mother{
+overflow: hidden;
+}
+.big{
+background-color: green;
+width: 75%;
+height: 200px;
+float: left;
+}
+.small{
+background-color: hotpink;
+width: 25%;
+height: 200px;
+float: left;
+}
+
+
+.legend{
+    overflow: hidden;
+}
+.box_1{
+    background-color: rgb(6, 185, 245);
+    width: 25%;
+    height: 120px;
+    float: left;
+}
+.box_2{
+    background-color: rgb(255, 255, 0);
+    width: 25%;
+    height: 120px;
+    float: left;
+}
+.box_3{
+    background-color: rgb(0, 110, 255);
+    width: 25%;
+    height: 120px;
+    float: left;
+}
+.box_4{
+    background-color: rgb(0, 255, 0);
+    width: 25%;
+    height: 120px;
+    float: left;
+}
+
+
+.footer{
+    background-color: rgb(4, 253, 232);
+    height: 50px;
+}
+
+
